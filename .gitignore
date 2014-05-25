@@ -1,0 +1,12 @@
+node_modules
+
+src/bower_components
+
+public
+.tmp
+Gruntfile.js
+.bowerrc
+.editorconfig
+.jshintrc
+bower.json
+package.json
