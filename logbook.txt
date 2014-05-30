@@ -1,0 +1,121 @@
+INFORMASI UMUM
+=============================================================
+
+Nama Kelompok	: Anonymous
+Judul Topik	: CSS (Cascading Style Sheets)
+Alamat Github	: https://github.com/heri28/presentasi
+Alamat Trello	: https://trello.com/b/uJ5isJST/presentasi
+
+Anggota 1:
+
+Nama	: Heri Tri Wibowo
+NIM	: 12 111 1346
+
+Anggota 2:
+
+Nama	: Winson Jung
+NIM	: 12 111 1664
+
+Anggota 3:
+
+Nama	: Ahmad Fadlik Muhairi
+NIM	: 12 111 2554
+
+
+SPRINT
+=============================================================
+
+Sprint 1: 
+Date		: 26/5 - 29/5
+ScrumMaster	: Heri Tri Wibowo (12 111 1346)
+
+Sprint 2:
+Date		: 30/5 – 3/6
+ScrumMaster	: Nama (NIM)
+
+
+Sprint 3: 
+Date		: 4/6 – 7/6
+ScrumMaster	: Nama (NIM)
+Progress 
+
+
+=============================================================
+
+26/5 
+Daily Scrum
+(Heri Tri Wibowo):
+1. Hari ini saya membuat backlog project dan mencari bahan presentasi
+2. Tidak ada kendala
+
+(Winson Jung):
+1. Hari ini saya mencari bahan presentasi
+2. Internet lambat
+
+(Ahmad Fadlik Muhairi):
+1. hari ini saya mencari bahan presentasi
+2. Tidak ada kendala
+
+=============================================================
+
+27/5 
+Daily Scrum
+(Heri Tri Wibowo):
+1. Semalam saya mencari bahan presentasi
+2. Hari ini saya membuat template dasar presentasi
+3. Tidak ada kendala
+
+(Winson Jung):
+1. Semalam saya mencari bahan presentasi
+2. hari ini saya edit judul dan isi
+3. bingung cara push
+
+(Ahmad Fadlik Muhairi):
+1. Semalam saya mencari bahan presentasi
+2. Hari ini saya edit judul
+3. Tidak ada kendala
+
+=============================================================
+
+28/5 
+Daily Scrum
+(Heri Tri Wibowo):
+1. Semalam saya membuat template dasar presentasi
+2. Hari ini saya edit content
+3. Tidak ada kendala
+
+(Winson Jung):
+1. Semalam saya edit judul dan isi
+2. hari ini saya mencari sejarah css
+3. Internet Lambat
+
+(Ahmad Fadlik Muhairi):
+1. Semalam saya edit judul
+2. Penambahan halaman materi
+3. Tidak ada kendala
+
+=============================================================
+
+29/5 
+Daily Scrum
+(Heri Tri Wibowo):
+1. Semalam saya edit content
+2. Hari ini saya edit tampilan presentasi
+3. Tidak ada kendala
+
+(Winson Jung):
+1. Semalam saya mencari sejarah css
+2. hari ini saya push sejarah css
+3. Internet lemot
+
+(Ahmad Fadlik Muhairi):
+1. Semalam saya menambah halaman materi
+2. Hari ini saya menambah kelebihan css
+3. Tidak ada kendala
+
+=============================================================
+
+
+
+
+
