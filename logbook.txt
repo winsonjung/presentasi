@@ -31,7 +31,7 @@ ScrumMaster	: Heri Tri Wibowo (12 111 1346)
 
 Sprint 2:
 Date		: 30/5 – 3/6
-ScrumMaster	: Nama (NIM)
+ScrumMaster	: Ahmad Fadlik Muhairi (12.111.2554)
 
 
 Sprint 3: 
@@ -114,6 +114,41 @@ Daily Scrum
 3. Tidak ada kendala
 
 =============================================================
+
+30/05
+Daily Scrum
+(Ahmad Fadlik Muhairi):
+1. Hari ini saya membuat backlog
+2. Tidak ada kendala
+
+(Heri Tri Wibowo):
+1. hari ini saya edit tampilan presentasi
+2. Tidak ada kendala
+
+(Winson Jung):
+1. hari ini saya buat contoh css
+2. tidak ada
+
+=============================================================
+
+31/5 
+Daily Scrum
+(Ahmad Fadlik Muhairi):
+1. Semalam saya membuat backlog (sprint)
+2. Hari ini saya edit halaman dan menambah content ( rule penulisan css )
+3. Tidak ada kendala
+
+(Heri Tri Wibowo):
+1. Semalam saya edit tampilan presentasi
+2. Hari ini saya menambahkan content ( kekurangan css )
+3. Tidak ada kendala
+
+(Winson Jung):
+1. semalam saya buat contoh css
+2. tidak ada 
+3. tidak ada
+
+
 
 
 
