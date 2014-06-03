@@ -115,6 +115,34 @@ html
           li Pemberian nilai dari property digunakan titik dua ( : ), akhir dari property digunakan titik koma ( ; )
 
       section(data-bespoke-state='emphatic')
+        h3 Pendeklarasian CSS
+        hr
+        ul
+           li <b>1. Eksternal style sheet</b>
+           li ideal diterapkan pada banyak halaman , dengan ini anda dapat  mengubah tampilan seluruh situs Web dengan mengubah satu file
+        pre
+          code.language-javascript.
+            link rel="stylesheet" type="text/css" href="mystyle.css"
+        ul
+            li penulisan kode diatas pada file html
+
+      secton(data-bespoke-state='emphatic')
+        h3 Pendeklarasian CSS
+        hr
+        ul
+            li <b>2. Internal style sheet</b>
+            li Meletekkan kode CSS langsung ke dalam file html di antara tag HEAD
+        pre
+          code.language-javascript.
+            head
+            style type="text/css"
+            hr {color:sienna;}
+            p {margin-left:20px;}
+            body {background-image:url(“images/back40.gif”);}
+            /style
+            /head		  
+
+      section(data-bespoke-state='emphatic')
         h2 Named Route
         h3 Powered by <a href="https://github.com/markdalgleish/bespoke-hash">bespoke-hash</a>
         p Look up! This route has been named with a <em>'data-bespoke-hash'</em> attribute.
