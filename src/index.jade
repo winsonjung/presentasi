@@ -109,18 +109,48 @@ html
         h3 Deklarasi CSS terdiri dari 3 yaitu
         ul
            li &nbsp;
-           li Lokal (inline)
-           li Global (embedded)
-           li Pada file terpisah		
+           li 1. Lokal (Inline style sheets)
+           li 2. Global (embedded)
+           li 3. File terpisah (External style sheets)
+                                                               
+      section(data-bespoke-state='emphatic')
+        h3 Lokal (Inline style sheets)<br>
+        ul
+          li Deklarasi langsung pada tag HTML dalam satu baris
+          li
+            pre
+              code.language-javascript.
+              &lt;p style=&quot;color: sienna; margin-left:20px&quot;&gt;This is a paragraph&lt;/p&gt;
 
       section(data-bespoke-state='emphatic')
-        h2 Lokal <br>
-        h3 Deklarasi langsung pada tag HTML dalam satu baris
-        h3 Contoh :
-        pre
-          code.language-javascript.
-          &lt;p style=&quot;color: sienna; margin-left:20px&quot;&gt;This is a paragraph&lt;/p&gt;
-
+        h3 Global (Embedded)
+        ul
+          li pendeklarasian secara internal diletakkan pada bagian TAG head
+          li
+            pre
+              code.language-javascript.
+              &lt;html&gt;
+              &lt;head&gt;
+              &lt;title&gt;Web Pertama saya&lt;/title&gt;
+              &lt;style type=&quot;text/css&quot;&gt;
+              &#32;&#32;&#112;&#123;color: #933;&#125;
+              &lt;/style&gt;
+              &lt;/head&gt;
+              &lt;body&gt;
+              &lt;h1&gt;Hello&lt;/h1&gt;
+              &lt;p&gt;Saya sedang belajar HTML&lt;/p&gt;
+              &lt;/body&gt;
+              &lt;/html&gt;			  
+  
+      section(data-bespoke-state='emphatic')
+        h3 File Terpisah (External style sheets)<br>
+        ul
+          li Deklarasi CSS pada file khusus .css 
+          li Pendeklarasian pada file HTML menggunakan TAG
+          li 
+             pre
+               code.language-javascript.
+               &lt;link rel=&quot;stylesheet&quot; type=&quot;text/css&quot; href=&quot;mystyle.css&quot;/&gt;
 
       section(data-bespoke-state='emphatic')
         h2 Syntax CSS
@@ -131,34 +161,6 @@ html
           li Selector adalah HTML element yang ingin dibuat style nya
           li Declaration  merupakan isi dari property dan nilai dari CSS
           li Pemberian nilai dari property digunakan titik dua ( : ), akhir dari property digunakan titik koma ( ; )
-
-      section(data-bespoke-state='emphatic')
-        h3 Pendeklarasian CSS
-        hr
-        ul
-           li <b>1. Eksternal style sheet</b>
-           li ideal diterapkan pada banyak halaman , dengan ini anda dapat  mengubah tampilan seluruh situs Web dengan mengubah satu file
-        pre
-          code.language-javascript.
-            link rel="stylesheet" type="text/css" href="mystyle.css"
-        ul
-            li penulisan kode diatas pada file html
-
-      secton(data-bespoke-state='emphatic')
-        h3 Pendeklarasian CSS
-        hr
-        ul
-            li <b>2. Internal style sheet</b>
-            li Meletekkan kode CSS langsung ke dalam file html di antara tag HEAD
-        pre
-          code.language-javascript.
-            head
-            style type="text/css"
-            hr {color:sienna;}
-            p {margin-left:20px;}
-            body {background-image:url(“images/back40.gif”);}
-            /style
-            /head		  
 
       section(data-bespoke-state='emphatic')
         h2 Named Route
